@@ -142,7 +142,7 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-520",
     "repoUrl": "https://github.com/arslvn93/Open-House-520",
-    "tag": "Open House 14 Warren Crescent",
+    "tag": "Leads | 14 Warren Cr Open House",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/MONwEFLJTi58Ns0DvKJv/webhook-trigger/k0vkmargra3APEchVKGz",
     "siteId": "0c83703f-09bf-4999-b2bf-803db96cb553"
   }
