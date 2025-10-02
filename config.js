@@ -3,7 +3,7 @@ const config = {
     "streetAddress": "14 Warren Crescent",
     "city": "Toronto",
     "cityStateZip": "Toronto, ON M6S 4S2",
-    "heroSubtitle": "Quiet and safe neighbourhood with proximity to Etienne Brule Park and the Humber River Trail. Spacious 44x146-foot lot, functional layout, and strong foundation. Register to receive the complete Home & Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
+    "heroSubtitle": "Quiet and safe neighbourhood with proximity to Etienne Brule Park and the Humber River Trail. Spacious 25x100-foot lot, functional layout, and strong foundation. Register to receive the complete Home & Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
     "backgroundImageUrl": "https://api.typeform.com/responses/files/be4df8285c681cdec0c4678f656fe6a221f976356bdd1d98d31b211ade765152/2_second_photo.jpg"
   },
   "realtor": {
