@@ -9,7 +9,7 @@ const config = {
   "realtor": {
     "fullName": "James Hall",
     "title": "REALTOR®",
-    "phone": "4165645464",
+    "phone": "(416) 564 5464",
     "email": "jameshall@property.ca",
     "bio": "With a background in hospitality and a career built on results, I believe real estate is about tailoring every step to fit your unique goals. Born and raised in Toronto, I bring hyper-local GTA knowledge and deep market expertise.\n\nI don't believe in one-size-fits-all solutions. Using data-driven insights, in-depth analytics, and access to both on- and off-market inventory, I ensure you're making informed, strategic decisions. My job is to give you every advantage—the right opportunities, at the right time, with the right strategy.\n\nI pride myself on delivering a white-glove experience and building long-term relationships rooted in trust and transparency. Your real estate journey is one of your most important investments, and I'm here to help you navigate it with clarity and confidence.",
     "photoUrl": "https://cdn.realtor.ca/individual/TS638852403000000000/highres/1417941.jpg",
